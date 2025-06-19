@@ -1,4 +1,4 @@
-# 📊 RForAll 💙🐍✨  
+# 📊 RForAll 💙✨  
 **Making R accessible for everyone!** 🚀📈📊  
 
 ## 🌍 Welcome to RForAll! / ¡Bienvenido a RForAll! 🎉🎨📦  

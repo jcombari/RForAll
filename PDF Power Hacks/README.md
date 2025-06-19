@@ -1,4 +1,4 @@
-# 📄 PDF Intelligence with R / Inteligencia PDF con R 💙🐍✨
+# 📄 PDF Intelligence with R / Inteligencia PDF con R 💙📊✨
 
 ¡Bienvenido a este espacio dedicado exclusivamente a dominar los PDFs usando R! 🚀 Aquí encontrarás guías paso a paso, tutoriales prácticos y herramientas para que crees tus propias soluciones al estilo *"I Love PDF"*, completamente en R, sin depender de software pago ni subir tus archivos a la nube. 🔐📊
 
